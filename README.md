@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:020024&height=260&section=header&text=Wasi%20Ur%20Rehman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20•%20Generative%20AI%20•%20MLOps&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Wasi%20Ur%20Rehman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20•%20Generative%20AI%20•%20MLOps&descAlignY=55&descSize=18" />
 </p>
+
 
 <h2 align="center">AI / ML Engineer</h2>
 

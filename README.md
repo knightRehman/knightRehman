@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/wasi-ur-rehman-abro-625633244">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:waasiurrehman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/knightRehman">

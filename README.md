@@ -23,7 +23,7 @@
 
 
 
-<h2 align="center">🧠 Executive Summary</h2>
+<h2 align="center"> Executive Summary</h2>
 
 <p align="center">
 AI / ML Engineer building <b>production-ready, scalable AI systems</b> — from

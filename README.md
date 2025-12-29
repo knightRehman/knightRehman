@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Wasi%20Ur%20Rehman&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:020024&height=260&section=header&text=Wasi%20Ur%20Rehman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20•%20Generative%20AI%20•%20MLOps&descAlignY=55&descSize=18" />
 </p>
 
-<h3 align="center">
- AI / ML Engineer
-</h3>
+<h2 align="center">AI / ML Engineer</h2>
 
 <p align="center">
-Machine Learning • Generative AI • LLMs • MLOps 
+  <b>Machine Learning • Generative AI • LLMs • MLOps</b>
 </p>
 
 <p align="center">
@@ -18,57 +16,59 @@ Machine Learning • Generative AI • LLMs • MLOps
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/knightRehman">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 
 
-## Executive Summary
+<h2 align="center">🧠 Executive Summary</h2>
 
-**AI / ML Engineer** building **production-ready AI systems** — from **data ingestion** to **LLM deployment, and monitoring**.
+<p align="center">
+AI / ML Engineer building <b>production-ready, scalable AI systems</b> — from
+<b>data ingestion → model training → LLM deployment → monitoring</b>.
+</p>
 
-Specialized in:
-- **Generative AI & RAG architectures**
-- **LLM orchestration & evaluation**
-- **MLOps**
-- **Real-time AI systems**
-
-Focused on **impact, scale, and reliability**.
-
-
-
-## 🚀 Languages & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,django,flask" />
+<p align="center">
+Focused on <b>Generative AI</b>, <b>RAG pipelines</b>, <b>LLM orchestration</b>,
+and <b>MLOps</b> with real-world impact.
 </p>
 
 
 
-## 🧠 AI / ML & Generative AI Stack
+<h2 align="center">🚀 Languages & Frameworks</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv" />
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-darkgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,django,flask&theme=dark" />
 </p>
 
 
 
-## ⚙️ Cloud, MLOps & Infrastructure
+<h2 align="center">🧠 AI / ML & Generative AI Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,redis,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-14532d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
 </p>
 
 
 
-## 📐 System Architecture (Production-Level Thinking)
+<h2 align="center">⚙️ Cloud, MLOps & Infrastructure</h2>
 
-### 1️⃣ Generative AI / RAG Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,redis,mongodb&theme=dark" />
+</p>
+
+
+
+<h2 align="center">📐 Production System Architecture</h2>
+
 ```text
 User Request
    ↓
@@ -82,6 +82,4 @@ Validation / Guardrails
    ↓
 Final Output / Application
 
-Monitoring → Alerting → Dashboards
-
-
+Monitoring • Alerting • Observability • Dashboards

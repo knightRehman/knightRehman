@@ -48,7 +48,7 @@ and <b>MLOps</b> with real-world impact.
 <h2 align="center">🧠 AI / ML & Generative AI Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
 <p align="center">
